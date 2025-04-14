@@ -1,0 +1,25 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUNzJz4znRGTlMNUzFLhmti9C2GcIohUoOA&s) ;
+background-size: cover;
+
+
+}
+li{
+    font-size: 40px;
+    background-color: white;
+
+}
+ol{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    color: white;
+}
+img{
+    width: 50vh;
+    height: 50vh;
+}
+input{
+    text-align: center;
+}
